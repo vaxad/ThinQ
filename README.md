@@ -1,3 +1,6 @@
+17
+![image](https://res.cloudinary.com/db670bhmc/image/upload/v1712339873/lbue4xclbby7r6wyhjxm.png)
+
 # Virtual Classroom Enhancer
 
 This project is a comprehensive solution for virtual classrooms, providing a wide range of features to enhance the online learning experience. It is developed by Team MaamCoders, consisting of Arnav (Team Leader and Web Lead), Varad (Web Lead), Mihir(AI/ML Lead), Rishabh (UI and Frontend Lead), Milind (CSS Lead), and Prinkal (Frontend Subordinate).
